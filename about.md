@@ -1,18 +1,21 @@
 ---
 layout: single
-title: About
+title: About Me
 permalink: /about/
+comments: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Software Architect, Design Evangelist, Design Thinking Practitioner, Che Guevara Fan, and more...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### What I do ... 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Provide Cloud solutions
+- Conduct Design Thinking workshops to propose Innovative solutions.
+- Evangelize technology via conducting Technology Meetups
+- Lead a Technology Excellence team for UI
+- Mentor Dev/Support teams on Technology
+- Respond to Proposals
+- Review architecture of cloud platforms
+- Build prototypes on niche technologies like cloud, chatbots, voice
+- Provide head start for Dev teams on new technologies
+- Build development accelerators (for UI, Cloud)

@@ -105,6 +105,14 @@
         </li>
       {% endif %}
 
+      {% if author.slideshare %}
+      <li>
+        <a href="https://www.slideshare.net/{{ author.slideshare }}" itemprop="sameAs">
+          <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> SlideShare
+        </a>
+      </li>
+    {% endif %}
+
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">

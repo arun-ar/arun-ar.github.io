@@ -26,7 +26,7 @@ Probably her personal situation could have been the main reason but as Christoph
 
 People always seek some kind of private outdoor space where they can sit under the sky, enjoy the sun light, gaze the stars, etc., They need to see into something larger and more distant space. You would have felt nice while standing in your balcony or courtyard for the same reason. We humans can't stay continuously inside closed areas, we get more stressed. When you come out in the open courtyard or balcony, then you feel bit relaxed looking at the distant sky and natural light.
 
-At least they could have gone for a transparent roof. 'No common-sensical person will...', it still rings in my mind. Not sure when Orgs/Corps will get common-sensical with respect to people's lives.
+'No common-sensical person will...', it still rings in my mind. Not sure when Orgs/Corps will get common-sensical with respect to people's lives.
 
 
 

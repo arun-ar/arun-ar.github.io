@@ -56,3 +56,5 @@ We are used to see the keyboard shortcuts available on our desktop applications.
 We almost never collect information on usage patterns of our B2B applications. Usage Analytics provide clear details on the features that are widely used and features aren't used at all. similarly which user role uses which feature extensively or rarely. This helps in improving the application post live and also in building new B2B applications across the Enterprise.
 	   
 Lastly, pick a web framework (like Angular, React, Vue) that fits your Enterprise and the team. Adopting to one framework (or at the most two) across Enterprise shall provide great advantage in reusing components and talents across applications. You can find a plethora of articles on the web on how to choose a framework.
+
+Hope you found the list useful. Let me know your list of top things for a B2B UI application.

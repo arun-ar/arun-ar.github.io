@@ -12,7 +12,7 @@ I am a Software Architect, Design Evangelist, Design Thinking Practitioner, Che 
 
 - Provide Cloud solutions
 - Conduct Design Thinking workshops
-- Evangelize technology via conducting Technology Meetups
+- Evangelize technology via hosting Technology Meetups
 - Lead a Technology Excellence team for UI
 - Mentor Dev/Support teams on Technology
 - Respond to Proposals

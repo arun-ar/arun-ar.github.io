@@ -13,9 +13,9 @@ categories: technology design
 
 What are the top things that you should consider while designing and developing a B2B/B2E web UI? Here are the "Top Six" things that I see most people miss to consider.
 
-## 1. Design System and Pattern library
+## 1. Keep the knowledge in the systems
 		
-First thing is a common place where designers and developers can look up to for knowledge :) 
+First thing is to build a Design System and Pattern Library.  
 
 ###  So, What's a Design System ? 
 Design systems are like living style guides with documentation and code being extra stuff. Design system will be the one place where code, documentation and design of each and every component will be maintained and referred by designers and developers.
@@ -30,33 +30,33 @@ Design Systems serve as single source of truth for designers and developers. Hav
 ###  Why it is needed for B2B applications ? 
 A typical employee uses at least 3-5 applications within an Enterprise. A consistent UI for these application ensures less time for the user to learn and interact with the application as he/she doesn't need to remember different interaction patterns for different applications. This will also help the Enterprise to onboard new employees in less time. Apart from the above, a consistent user interface across applications promotes maximum reusability of components across Enterprise via Design systems and pattern libraries.  
 
-## 2. Not just Performance but Endurance  
+## 2. Make them Endure
 
-B2B applications are used 6 to 8 hours a day so it is very important how much the frontend can endure? 
+B2B applications are normally used for 6 to 8 hours a day so it is very important to continuously test their endurance. 
 
-Earlier desktops were thick clients and the developers had standard procedure to fine the application to deal with endurance issues like memory leaks, performance slow down etc., . But with web applications, browsers are the runtimes to which the code needs to fine tuned to achieve improved performance and endurance. 
+Earlier desktops were thick clients and the developers had standard procedure to fine tune their applications to deal with endurance issues like memory leaks, performance slow down, etc.,. But with web applications, browsers being the runtime, coding to it is much more complicated. 
 
-So it is very essential to perform endurance tests as part of Continuous Integration (CI) build at least once a week to keep track of the application's endurance capacity.
+So it is very essential to perform endurance tests as part of Continuous Integration (CI) build at regular intervals (may be for every sprint) to keep track of the application's endurance capacity.
 
-## 3. Why Browsers ? 
+## 3. Get out of Browsers 
 
-Browsers are the runtime environments for your web code. Coding to multiple runtimes is a pain in the neck for any developer. For B2C applications, we can't avoid serving the application on a plethora of browsers but for B2B applications you can target for a specific browser. 
-
-I am not advocating for 'entirely' thick client desktop applications but can we look at a middle path where we can use web technologies and browser runtime to create a 'lightweight' desktop client.  
-        
-Electron is one such framework which lets to create desktop clients using HTML/CSS/JS and uses chrome browser to render. Electron also provides Offline mode which can be handy for applications on cruise ships or the like. 
+Browsers are the runtime environments for your web code. Coding to multiple runtimes is a pain in the neck for any developer. For B2C applications, we can't avoid serving the application on a plethora of browsers but for B2B applications you don't need to do that. 
+      
+Electron is a framework which lets to create desktop clients using HTML/CSS/JS and uses chrome browser to render. Electron also enables offline capability which can be handy for applications on cruise ships or the like. 
 
 ## 4. Declutter your Desktops
 
-A B2B user will want to do his/her job effectively. He/She knows where things are and what they do but clutter on their application screen really puts them down at a subconscious level. Minimalism is a design trait that is followed to reduce clutter on their design estate, be it a portrait, a product or even life. 
-       
-I see Mobile-First Design approach for a Desktop application will really ensure the design stays minimalistic in style which will eventually improve the B2B user's productivity and experience. 
+A B2B user would want to do his/her job effectively. They know where things are and what they need to do but too much clutter on their application screen will really put them down at a subconscious level owing to less productivity and bad user experience. 
 
-## 5. Hot Keys are always hot
+Minimalism is a design trait that is followed to reduce clutter on their design estate, be it a portrait, a product or even life. I look at Mobile-First Design approach for a Desktop application will ensure the design stays minimalistic in style (avoiding visual clutter). 
 
-We are used to see the keyboard shortcuts available on our desktop applications. Keyboard shortcuts are one thing I see missing in most of the B2B web applications. When all the thick client B2B applications were migrated to browser based web applications, I see most of them ignored the keyboard shortcuts. Since B2B applications need to focus on productivity of the users who have to use them on a daily basis, it is necessary to have keyboard shortcuts in B2B applications. 
+## 5. Keep the keys 'Hot'
 
-## 6. Close the Loop Feed us Back 
+We are used to keyboard shortcuts that are available on our desktop applications. But keyboard shortcuts are one thing I see missing in most of the B2B web applications. When all the thick client B2B applications were migrated to browser based web applications, most of them ignored the keyboard shortcuts. 
+
+Since B2B applications need to focus on productivity of the users who have to use them on a daily basis, it is necessary to have keyboard shortcuts in B2B applications. 
+
+## 6. Close the Loop  
 
 We almost never collect information on usage patterns of our B2B applications. Usage Analytics provide clear details on the features that are widely used and features aren't used at all. similarly which user role uses which feature extensively or rarely. This helps in improving the application post live and also in building new B2B applications across the Enterprise.
 	   

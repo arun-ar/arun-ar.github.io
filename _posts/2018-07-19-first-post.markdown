@@ -7,6 +7,7 @@ header:
   caption: "Photo by [Joakim Honkasalo](https://unsplash.com/@jhonkasalo) on [**Unsplash**](https://unsplash.com)"
 date:   2018-07-19 22:34:07 +0530
 tags: people design-patterns  christopher-alexander 
+categories: people design
 ---
 
 

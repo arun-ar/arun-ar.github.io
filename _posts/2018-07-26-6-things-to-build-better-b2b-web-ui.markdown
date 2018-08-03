@@ -50,7 +50,7 @@ You can wrap your SPA web application using [Electron](https://electronjs.org/) 
 
 A B2B user would want to do his/her job effectively. They know where things are and what they need to do.  But too much clutter on their application screen might really put them down at a subconscious level owing to less productivity and bad user experience. 
 
-[Minimalism](https://www.sitepoint.com/what-is-minimalism/) is a design style wherein clutter on their design estate (be it a portrait, a product or even life) is kept none or minimal. I see sticking to a Mobile-First-Design approach for a Desktop application will ensure the design stays minimalistic in style (avoiding much visual clutter).
+[Minimalism](https://www.sitepoint.com/what-is-minimalism/) is a design style wherein clutter on their design estate (be it a portrait, a product or even life) is kept none or minimal. I see sticking to a [Mobile-First-Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/) approach for a Desktop application will ensure the design stays minimalistic (avoiding much visual clutter).
 
 ## 5. Keep the keys 'Hot'
 

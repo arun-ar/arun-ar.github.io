@@ -42,7 +42,7 @@ So it is very essential to perform endurance tests as part of Continuous Integra
 
 Browsers are the runtime environments for your web code. Coding to multiple runtimes is a pain in the neck for any developer. For B2C applications, we can't avoid serving the application on a plethora of browsers but for B2B applications you don't need to do that. 
       
-Electron is a framework which lets to create desktop clients using HTML/CSS/JS and uses chrome browser to render. Electron also enables offline capability which can be handy for applications on cruise ships or the like. 
+Electron is a framework which lets to create desktop clients using HTML/CSS/JS and uses chrome engine to render. Electron also enables offline capability which can be handy for applications on cruise ships or the like. 
 
 ## 4. Declutter your Desktops
 

@@ -18,6 +18,9 @@ What are the top things that you should consider while designing and developing 
 First thing is to build a Design System and Pattern Library.  
 
 ###  So, What's a Design System ? 
+
+{% include figure image_path="/assets/images/design-system-example.png" alt="An example design system by IBM" caption="Carbon Design System by IBM" %}
+
 Design systems are like living Style Guides with documentation and code as extra. Design systems will be the one place where each and every UI component will be maintained and referred to by designers and developers.
 
 Pattern libraries are similar to Design systems. Here the components are not just visual but behaviour too. Each Component is more like a little application - at molecular scale. For example, a Grid or a Login component. With pattern libraries, you don't have to rebuild a custom grid component or login component for every application in your enterprise. 

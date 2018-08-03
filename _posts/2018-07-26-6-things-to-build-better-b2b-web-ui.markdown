@@ -52,6 +52,8 @@ A B2B user would want to do his/her job effectively. They know where things are 
 
 [Minimalism](https://www.sitepoint.com/what-is-minimalism/) is a design style wherein clutter on their design estate (be it a portrait, a product or even life) is kept none or minimal. I see sticking to a [Mobile-First-Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/) approach for a Desktop application will ensure the design stays minimalistic (avoiding much visual clutter).
 
+{% include figure image_path="/assets/images/minimal-app.png" alt="minimalistic mobile-first-design of wecompress.com" caption="minimalistic mobile-first-design of wecompress.com" %}
+
 ## 5. Keep the keys 'Hot'
 
 We are used to keyboard shortcuts on our desktop applications. But those shortcuts are the one thing that I see missing in most of the B2B web applications. When the thick client B2B applications were transformed to web applications, most of the developers ignored the keyboard shortcuts feature making the application less efficient. 

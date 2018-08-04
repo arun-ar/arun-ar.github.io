@@ -12,9 +12,11 @@ author_profile: false
 ---
 
 
-What are the top things that you should consider while designing and developing a B2B/B2E web UI? Here are the top 6 things that I see most people miss to consider.
+What are the key things that you should consider while designing and developing a B2B/B2E web UI? 
 
-TL;DR - Summary
+Here are the top 6 key stuff that I see most people miss to consider.
+
+## TL;DR - Summary
 
 1.  Keep the knowledge in the systems
 2.  Make the apps endure 
@@ -23,7 +25,7 @@ TL;DR - Summary
 5.  Keep the keyboard shortcuts
 6.  Close the Feedback Loop
 
-What follows is a 5-minute-read explaining the above 6 points, but if you're the I-already-knew sort you don't need to bother with this and can just do what I say above and stop reading.
+What follows is a 5-minute-read explaining the above 6 points, but if you're the I-already-knew sort then you don't need to bother with this and can just do what I say above and stop reading.
 
 ## 1. Keep the knowledge in the systems
 		

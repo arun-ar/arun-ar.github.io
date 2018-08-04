@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "6 Things to build better B2B Web UI"
-excerpt: "Here are the Top 6 things that I see most people miss..."
+excerpt: "Here are the 6 key things that I see most people miss..."
 header:
   overlay_image: /assets/images/annie-spratt-294450-unsplash.jpg
   caption: "Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [**Unsplash**](https://unsplash.com)"
@@ -14,7 +14,7 @@ author_profile: false
 
 What are the key things that you should consider while designing and developing a B2B/B2E web UI? 
 
-Here are the top 6 key stuff that I see most people miss to consider.
+Here are the 6 key things that I see most people miss to consider.
 
 ## TL;DR - Summary
 

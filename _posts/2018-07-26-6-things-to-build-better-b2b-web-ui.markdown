@@ -25,7 +25,7 @@ Here are the 6 key things that I see most people miss to consider.
 5.  Keep the keyboard shortcuts
 6.  Close the Feedback Loop
 
-What follows is a 5-minute-read explaining the above 6 points, but if you're the I-already-knew sort then you don't need to bother with this and can just do what I say above and stop reading.
+What follows is a 5-minute-read explaining the above 6 points, but if you're the I-already-knew sort then you don't need to bother with this but can scroll down and comment if I had missed out any.
 
 ## 1. Keep the knowledge in the systems
 		
@@ -43,7 +43,7 @@ Design systems are like living Style Guides with documentation and code being ex
 
 {% include figure image_path="/assets/images/component-library-example.png" alt="An image of  component library created by SalesForce" caption="Component Library of SalesForce" %}
 
-Component libraries are similar to Design systems. Here the components are not just visual but behaviour too. Each Component is more like a little application - at molecular scale. For example, a Grid or a Login component. With Component libraries, you don't have to rebuild a custom grid component or login component for every application in your enterprise. 
+Component libraries are similar to Design systems. Here the components are not just visual but with behaviour too. Each Component is more like a little application - at molecular scale. For example, a Grid or a Login component. With Component libraries, you don't have to rebuild a custom grid component or login component for every application in your enterprise. 
 
 Thanks to frameworks like Angular2 & React, finally Component libraries are easy to setup as we have moved away from the notion of building web pages to building components.
 

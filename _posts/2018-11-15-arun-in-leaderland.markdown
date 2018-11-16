@@ -13,35 +13,48 @@ author_profile: false
 
 < *work in progress* >
 
-### Rabbit Hole
-It all started with a weekly Tamil magazine. An article that served like a rabbit hole for my journey into the Leaderland.
+### Down the Rabbit-Hole
+It all started with an article in a weekly Tamil magazine. An article that took me down the rabbit-hole into the Leaderland.
 
-It was the fifth year of my IT career and I was asked to take up a lead role to deliver a JavaEE project, in addition to architecting it. Being new to the role and also feeling accountable for a team, I wanted to ensure that I don't fail. I started to look around for leadership styles. Something didn't feel right with those styles that I saw. It was mostly command-and-control style which I, somehow,  didn't feel would work in the long run. 
+It was the fifth year of my work career and I was asked to take up a lead role to architect and deliver a project. Being new to the role and also feeling accountable for a team, I wanted to ensure that I don't fail. I started to look around with hope of finding a secret formula to lead people. Something didn't feel right with the styles that I saw. Either the lead was like a teacher or like a parent, with whom most of us grew up with or like a king, about  whom we heard stories about. I, somehow,  didn't feel would work in the long run. 
+
+The article was about Southwest, an airline company, that was pioneering & successful in a very competitive market, and its President Colleen Barrett. I found the article very peculiar. Very peculiar to find the line 'Lead with LUV'. How could lead with love ? Aren't mutually exclusive ?  This got me very curious - a curious thirst to find out the secret formula.
 
 ### Peculiar Story
-The article was on a peculiar story of a company that was successful & pioneering in a very competitive market. The peculiar thing for me was the statement "Lead with LUV". The company referred in the article was Southwest and it was a gist from the book "Lead with LUV" by Southwest Airlines President Colleen Barrett. In the following week day, I went to the office library and grabbed the book. 
+In the following week, I rushed to my office library, hoping to find the book. And there it was - my next portal to leader-verse. 
+
+I found stories about how customer facing employees were given more power to take decisions. A story wherein the flight staff would allow a well known book author to board the aircraft at difficult situation wherein the author didn't have any id proof to show. Story wherein a suggestion to remove logo on garbage bags from a ground employee to lead to big savings. Story where the company didn't apologize to rude customers, putting their employees first. When asked that you would lose those customers, colleen barrett, cheekily, said, 'we share them with our competitors' :)  
+
 
 ### Nutsy & the Gutsy
-This book on SouthWest Airlines led me to another book named 'NUTS'. NUTS was also the story of SouthWest Airlines and their crazy way of leadership. One of the reasons the book was named so because Southwest was then serving peanuts onboard, aptly, as a low cost carrier.
+Having tasted 'Lead with LUV', my mind got even more itchy. I found another book on Southwest. It was aptly named 'NUTS'. 
 
-Like Bahubali, there was a second part for this book - named 'GUTS' (courtesy, of course, office library). It had the stories of organisations that followed unique leadership styles like Southwest and yet consistently successful. 
+NUTS was also the story of SouthWest Airlines and their crazy way of leadership. One of the reasons the book was named so because Southwest was then serving peanuts onboard as a low cost carrier.
 
-### Employees set their own salaries
-Believe me. Its true. There is an organisation where employees set their own salaries. And "GUTS" had the story of that company as one of their stories. Semco was the company and Ricardo Semler was the crazy successful CEO. 
+Like Bahubali, the authors had a second part for this book - named 'GUTS' (courtesy, of course, office library). It had the stories of few organisations that followed unique ways like Southwest to lead people and yet consistently successful.  One organization stood out in craziness - Semco. 
+
+### The mad man and his company
+'Employees set their own salaries' - Believe me, its true. "GUTS" had the story of Semco - the company that let their employees set their own salaries. And the mad man running it was Ricardo Semler - the crazy successful CEO. Company with no HR or Secretaries and no Managers. It was hard to believe. I was so madly curious since it was like I found the smell of the secret formula. 
 
 ### The Maverick and his 7 day weekend 
-Maverick and Seven day Weekend are the books by Ricardo Semler. True to the book's title Semler was a maverick - unorthodox in every way when it comes to to leadership. Only leader that I admire in the corporate world until now. 
+My trips to library after my lunch breaks became a regular routine. To my surprise, I found two books 'Maverick and Seven-day Weekend' written by the same crazy mad fellow - Ricardo Semler. True to the book's title Semler was a maverick - an unorthodox in every way when it comes to to leading people. He is the only leader that I admire in the corporate world until now.
 
-Maverick is the story about Semco company and how Semler slowly and steadily transformed it into a truly democratic organisation. For the first time, I came to know the words 'corporate democracy'. First time, someone say "you can't choose your boss" needn't be always true. First time, someone question that when nations are waging for establishing democracy, why so not in a corporate. First time some one say "Its better to ask sorry than to ask permission". 
+Maverick is the story about Semco company and how Semler slowly and steadily transformed it into a truly democratic organisation. For the first time, I came to know of the words 'corporate democracy'. Somehow it never occurred to me that democracy can be employed in a company. May be because of that the infamous line that we were all repeatedly told from our infancy (in the corporate world) that ' you can't choose your Boss'. Semler wittingly asks , ' If I can choose my political leader, why can I choose my corporate leader'. It sounded very logical in a world where nations got to war to establishing democracy in far off continents. 
+
+He describes how wrong it is for leaders to treat their employees like children. They tend to become protective and possessive. How Hate and shock can fill those people when their team members resign or ask for a change. Semler asks treat employees like adults by giving due respect to their well grown brains. I know a lot scenarios pop up in your mind that you feel this won't work. you gotta read his books where you would find all the answers. 
+
+One line from the book that I often tell my team is "Its better to ask sorry than to ask permission". There's lots to tell about this guy but I will leave to your curiousness. 
 
 ### Leader and the Servant 
-Two words were popping up in most of the stories - Servant Leadership. When I skimmed through the leadership shelves of my office library, I stumbled upon 
-James Hunter's 'The World's Most Powerful Leadership Principle' and 'Winning_with_People' by John Maxwell. Both gave me deep understanding of the Servant Leadership and how to treat people as people and not as resources.
+In my quest, I found two words - Servant Leadership, pop up in some of the stories. When I skimmed through the leadership shelves of my office library, I stumbled upon 
+James Hunter's 'The World's Most Powerful Leadership Principle' and 'Winning_with_People' by John Maxwell. Reading both, I got a deep understanding of Servant Leadership.
+
+The books revealed how our mothers are real-life Servant Leaders who hold complete authority over us by diligently serving us. How She balances kindness and punishment. How we completely surrender to her command. 
 
 ### How to deliver happiness 
 Since I was deep down in the rabbit hole, the leaderland universe was conspiring to reveal more of itself by having my office friend gift me a book - 'Delivering Happiness' by Tony hsieh, for my birthday. This book was on Tony telling story and his company named Zappos that delivers shoes online. Zappos was a consistently successful company that was later bought by Amazon. Tony places high importance to people and culture of the organisation. 
 
-And this book is the rabbit hole for my next journey into the 'HappinessLand'. But that's for another day...
+And this book is the rabbit hole for my next journey into the 'Happiness-Land'. But that's for another day...
 
 
 

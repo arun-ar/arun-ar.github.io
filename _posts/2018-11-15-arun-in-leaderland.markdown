@@ -11,6 +11,9 @@ categories:  people design
 author_profile: false
 ---
 
+>If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea. 
+>  ~ Antoine de Saint-Exupéry
+
 ### Down the Rabbit-Hole
 It all started with an article in a weekly Tamil magazine. An article that took me down the rabbit-hole into the Leader-land.
 
@@ -18,7 +21,7 @@ It was the fifth year of my work career and I was asked to take up a lead role t
 
 That article, in the Tamil weekly, was about Southwest Airlines, which was pioneering & successful in a very competitive market, and its President Colleen Barrett. I found the article very peculiar. Very peculiar to find the line 'Lead with LUV'. How could someone lead with love ? Aren't they mutually exclusive ?  This got me very curious - a curious thirst to unravel the elusive.
 
-### Peculiar Story , What's love gotta do ...?
+### What's Love gotta do ...?
 In the following week, I rushed to my office library, hoping to find the book. And there it was - my portal to leader-verse. 
 
 I found stories about how customer-facing employees were given more freedom to take responsible decisions. A story wherein a flight staff who allowed a well known book author to board the aircraft understanding the difficult situation of the author who didn't have any id proof. Another story wherein a suggestion to remove the company logo on garbage bags from a ground employee led to very significant savings. Also a story where the company didn't apologize to rude customers, putting their employees first. When asked about losing those customers, Colleen Barrett, cheekily, replied, 'We share those rude customers with our competitors' :)  
@@ -52,33 +55,31 @@ These two books reveal that we have real life servant leaders - our Mothers who 
 
 Another revelation that I had via the books is that on 'Why your Leader can't never be your Mentor ?'. A Leader always tries to make a replica of himself and unconsciously evaluates their team using the same criteria. Also a leader will try to utilize your skills in a way that the team's goal is achieved - more like a team Captain. A Mentor is someone who tries to see your skills and guide you to pursue in that path even if it means to leave the team or company - more like a Coach.
 
+### Love is Leadership
 The main revelation from Servant Leadership that will guide me for the rest of my career and life is this. 
 
->Love (= Leadership) is 
->is patient. 
->is kind.
->does not envy.
->does not boast.
->is not proud.
->does not dishonour others.
->is not self-seeking.
->is not easily angered.
->keeps no record of wrongs.
->does not delight in evil.
->rejoices with the truth.
->always protects.
->always trusts.
->always hopes.
->always perseveres." 
-> - Corianthians  13:4-7
+>Love (= Leadership) 
+>  is patient. 
+>  is kind.
+  does not envy.
+  does not boast.
+  is not proud.
+  does not dishonour others.
+  is not self-seeking.
+  is not easily angered.
+  keeps no record of wrongs.
+  does not delight in evil.
+  rejoices with the truth.
+  always protects.
+  always trusts.
+  always hopes.
+  always perseveres. 
+  >  ~ Corianthians  13:4-7
   
-This biblical quote as-is applies to Leadership.  
+This biblical quote as-is applies to Leadership. The true way to lead - engaging everyone to the growth of everyone as a whole. 
 
 ### How to deliver happiness 
 Having gone far into the leader-land, I found the lead-verse conspiring to reveal more of itself when I got the book 'Delivering Happiness' by Tony Hsieh as a birthday gift from a office friend. It had the story of Tony and his company named Zappos that delivers shoes online. Tony emphasized more to the culture of the organisation. 
 Zappos was a consistently successful company that was later bought by Amazon. Tony places high importance to people and culture of the organisation. 
 
 And this book is the rabbit hole for my next journey which is into the 'Happiness-Land'. But that's for another day...
-
->If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea. 
->- Antoine de Saint-Exupéry

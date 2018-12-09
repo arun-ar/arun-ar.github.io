@@ -33,7 +33,7 @@ NUTS also told the founding story of SouthWest Airlines and their crazily good w
 
 Like most of the successful books, I found the authors had made a sequel - named 'GUTS' (courtesy, of course, office library). It had the stories of few organisations that followed unique ways like Southwest to lead people and yet consistently successful.  One organization stood out in craziness - Semco. 
 
-### The mad man and his company
+### The man and his company
 'Employees set their own salaries' - Believe me, its true. "GUTS" had the story of Semco - the company that let their employees set their own salaries. And the mad good man running that company was Ricardo Semler. 
 
 I found the company had no HR or secretaries but more shockingly surprising was the fact that there were no managers too. It was hard to believe. I was so curious since it was like - I could smell the secret sauce. 
@@ -78,8 +78,8 @@ The main revelation from Servant Leadership that will guide me for the rest of m
   
 This biblical quote as-is applies to Leadership. The true way to lead - engaging everyone to the growth of everyone as a whole. 
 
-### How to deliver happiness 
-Having gone far into the leader-land, I found the lead-verse conspiring to reveal more of itself when I got the book 'Delivering Happiness' by Tony Hsieh as a birthday gift from a office friend. It had the story of Tony and his company named Zappos that delivers shoes online. Tony emphasized more to the culture of the organisation. 
+### Unexpected turn and Happiness 
+There are books that you find and there books that finds you. I felt the same when I got the book 'Delivering Happiness' by Tony Hsieh as a birthday gift from a office friend. It had the story of Tony and his company named Zappos that delivers shoes online. Tony emphasized more on the culture of the organisation. 
 Zappos was a consistently successful company that was later bought by Amazon. Tony places high importance to people and culture of the organisation. 
 
-And this book is the rabbit hole for my next journey which is into the 'Happiness-Land'. But that's for another day...
+And this book is the rabbit hole for my next journey into the 'Happiness-Land'. But that's for another day...

@@ -5,13 +5,11 @@ excerpt: "Here's my journey through the rabbit hole..."
 header:
   overlay_image: /assets/images/greg-rakozy-38802-unsplash.jpg
   caption: "Photo by [Greg Rakozy](https://unsplash.com/@grakozy) on [**Unsplash**](https://unsplash.com)"
-date:   2018-11-15 00:23:07 +0530
+date:   2018-12-09 10:46:07 +0530
 tags: love leadership people
 categories:  people design
 author_profile: false
 ---
-
-< *work in progress* >
 
 ### Down the Rabbit-Hole
 It all started with an article in a weekly Tamil magazine. An article that took me down the rabbit-hole into the Leader-land.
@@ -44,7 +42,7 @@ Maverick is the story about how Semler slowly and steadily transformed Semco int
 
 Semler also tells how wrong it is for leaders to treat their employees like children. They tend to become protective and possessive. How hate and shock engulf those leaders when their team members commit a mistake or ask for a change. Semler advocates leaders to treat employees like adults by giving due respect to their well grown brains. In this information world where holding information is power, dissemination of information to all employees empowers them to take informed decisions especially information w.r.t their company's finances which is a key gives true democracy. I know a lot of scenarios pop up in your mind that you feel this won't work but you got to read his books where you would find stories where all those scenarios are answered. 
 
-One line from the book that I often tell my team is "It's better to ask sorry than to ask permission". There's lots to tell about this guy but I will leave it to your curiousness. For a sneak preview, check out his TED talk. 
+One line from the book that I often tell my team is "It's better to ask sorry than to ask permission". There's lots to tell about this guy but I will leave it to your curiousness. For a sneak preview, check out [his TED talk](https://www.ted.com/talks/ricardo_semler_how_to_run_a_company_with_almost_no_rules). 
 
 ### Leader and the Servant 
 In my quest, I found a style appearing in many instances.  - Servant Leadership, pop up in most of the stories. When I ran through the leadership shelves of my office library, I stumbled upon 
@@ -55,23 +53,24 @@ These two books reveal that we have real life servant leaders - our Mothers who 
 Another revelation that I had via the books is that on 'Why your Leader can't never be your Mentor ?'. A Leader always tries to make a replica of himself and unconsciously evaluates their team using the same criteria. Also a leader will try to utilize your skills in a way that the team's goal is achieved - more like a team Captain. A Mentor is someone who tries to see your skills and guide you to pursue in that path even if it means to leave the team or company - more like a Coach.
 
 The main revelation from Servant Leadership that will guide me for the rest of my career and life is this. 
-"Love (= Leadership) is 
-is patient. 
-is kind.
-does not envy.
-does not boast.
-is not proud.
-does not dishonour others.
-is not self-seeking.
-is not easily angered.
-keeps no record of wrongs.
-does not delight in evil.
-rejoices with the truth.
-always protects.
-always trusts.
-always hopes.
-always perseveres." 
- - Corianthians  13:4-7
+
+>Love (= Leadership) is 
+>is patient. 
+>is kind.
+>does not envy.
+>does not boast.
+>is not proud.
+>does not dishonour others.
+>is not self-seeking.
+>is not easily angered.
+>keeps no record of wrongs.
+>does not delight in evil.
+>rejoices with the truth.
+>always protects.
+>always trusts.
+>always hopes.
+>always perseveres." 
+> - Corianthians  13:4-7
   
 This biblical quote as-is applies to Leadership.  
 
@@ -81,4 +80,5 @@ Zappos was a consistently successful company that was later bought by Amazon. To
 
 And this book is the rabbit hole for my next journey which is into the 'Happiness-Land'. But that's for another day...
 
-If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea. - Antoine de Saint-Exupéry
+>If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea. 
+>- Antoine de Saint-Exupéry

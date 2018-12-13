@@ -49,7 +49,7 @@ Semler also explains how wrong it is for the leaders to treat their employees li
 
 My favourite line from his books which I often tell my team is,
 
-    “It’s better to ask sorry than to ask permission”.
+> “It’s better to ask sorry than to ask permission”.
 
 There’s lots to tell about this guy but I will leave it to your curiousness. For a sneak preview, check out [his TED talk](https://www.ted.com/talks/ricardo_semler_how_to_run_a_company_with_almost_no_rules). 
 
@@ -63,9 +63,7 @@ Another revelation that I had via these books is ‘Why a Leader can’t never b
 ### Love = Leadership
 The main revelation from Servant Leadership that will guide me for the rest of my career and life is this,
 
-    Love (and Leadership) is patient. is kind. does not envy. does not boast. is not proud. does not dishonor others. is not self-seeking. is not easily angered. keeps no record of wrongs. does not delight in evil. rejoices with the truth. always protects. always trusts. always hopes. always perseveres.
-
-    ~ Corinthians 13:4–7
+> Love (and Leadership) is patient. is kind. does not envy. does not boast. is not proud. does not dishonor others. is not self-seeking. is not easily angered. keeps no record of wrongs. does not delight in evil. rejoices with the truth. always protects. always trusts. always hopes. always perseveres. ~ Corinthians 13:4–7
 
 This biblical quote as is applies to Leadership. A Servant Leader should possess patience, kindness, humility, selflessness, respectfulness, forgiveness, honesty and commitment. 
 

@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Scribblings"
     url: /scribble/ 
-  - title: "Learnings"
-    url: /learning/      
+  #- title: "Learnings"
+  #  url: /learning/      
   # - title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"

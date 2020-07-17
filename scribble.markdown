@@ -19,7 +19,7 @@ gallery:
   alt: "Beat them goodness"
 - url: https://in.pinterest.com/pin/505951339374972568/
   image_path: http://i.pinimg.com/1200x/6f/2c/5a/6f2c5ab77672deeae05725d81197a1f6.jpg
-  alt: "thirukural lines"    
+  alt: "thirukural lines"     
 ---
     
 

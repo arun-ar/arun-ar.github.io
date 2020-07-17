@@ -1,0 +1,60 @@
+---
+layout: single
+title:  "My Readings..."
+date:   2018-08-19 23:34:07 +0530
+tags: my hand-lettering 
+categories: leadership
+
+gallery2:      
+- url: https://www.goodreads.com/book/show/7538.Winning_with_People
+  image_path: https://images.gr-assets.com/books/1165627537l/7538.jpg
+  alt: "winning with people"      
+- url: https://www.goodreads.com/book/show/56456.Nuts_
+  image_path: https://images.gr-assets.com/books/1435855904l/56456.jpg
+  alt: "Nuts!"      
+- url: https://www.goodreads.com/book/show/337083.Guts_
+  image_path: https://images.gr-assets.com/books/1388889319l/337083.jpg
+  alt: "Guts!"         
+- url: https://www.goodreads.com/book/show/6828896-delivering-happiness 
+  image_path: https://www.goodreads.com/book/show/6828896-delivering-happiness 
+  alt: "Delivering Happiness"
+---
+    
+{% include gallery id="gallery2" caption="Books that taught me leadership" %}
+
+
+servant leader robert leaf
+
+Ricardo Semler
+
+Happiness Hypothesis
+https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis
+
+
+Crush It! Why NOW Is The Time To Cash In On Your Passion by Gary Vaynerchuk
+
+Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization by Dave Logan, John King, and Halee Fischer Wright
+
+
+https://www.goodreads.com/book/show/6828896-delivering-happiness 
+
+
+James Hunter, 'The World's Most Powerful Leadership Principle' 
+https://www.goodreads.com/book/show/1330939.The_World_s_Most_Powerful_Leadership_Principle
+
+
+Ken Blanchard and Colleen Barrett, 'Lead With LUV'
+https://www.goodreads.com/book/show/8705453-lead-with-luv
+
+
+West, L.G. (2005). Lessons in Loyalty: How Southwest Airlines Does It - An Insider's View.
+
+Go Giver 
+
+
+sketch notes
+https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture
+
+
+
+

@@ -6,4 +6,4 @@ comments: false
 author_profile: true
 ---
 
-I am a Technology Consultant, Software Solutions Architect, Cloud Expert, Design Enthusiast, and more...
+Arunkumar Arunachalam is a Technology Consultant and Enterprise Architect focusing on Cloud transformations, Platform Engineering, Gen AI, and Sustainable IT. He loves exploring new technologies and sharing the knowledge.

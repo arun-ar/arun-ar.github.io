@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Arun Ar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Technology Consultant, Solutions Architect, and more..."
+  bio              : "Technology Consultant, Architect, and more..."
   location         : "Chennai, India"
   email            :
   links:
@@ -124,6 +124,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/arun-ar"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/a-arunkumar/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,6 +137,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://www.twitter.com/ArunkmrArun
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/a-arunkumar/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

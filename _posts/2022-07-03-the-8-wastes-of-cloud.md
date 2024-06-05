@@ -4,8 +4,9 @@ description: >-
   Optimising the Cloud Cost is the top priority for 70% of Enterprises according
   to State of Cloud reports by Flexera…
 date: '2022-07-03T00:29:59.712Z'
-categories: []
+categories: cloud finops
 keywords: []
+tags: cloud lean finops
 slug: /@ar.arun/the-8-wastes-of-cloud-d364b35425fe
 ---
 
@@ -19,7 +20,7 @@ To optimise the cloud spend, identifying wastes in the cloud implementation is a
 
 Reducing and eliminating wastes is embedded in one of the [5 core principles](https://en.wikipedia.org/wiki/Lean_manufacturing) of Lean methodology. So to identify entire spectrum of wastes in a cloud implementation, you can rely on the 8 wastes identified in Lean methodology.
 
-![](C:\Users\wing\Downloads\medium-export\posts\md_1717553334817\img\1__ZbCXhGj5jzXsuYwfXrbR__A.png)
+![](/assets/images/8-wastes.png)
 
 Being able to identify these wastes is the first step. This step, known as [Gemba Walk](https://en.wikipedia.org/wiki/Gemba#Gemba_Walk) in Lean terminology, is best done by browsing through the ‘[Gemba](https://en.wikipedia.org/wiki/Gemba)’(here it is the cloud implementation) and talking to its cloud engineers.
 

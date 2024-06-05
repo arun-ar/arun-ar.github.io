@@ -125,7 +125,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/arun-ar"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/a-arunkumar/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -138,7 +138,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: https://www.twitter.com/ArunkmrArun
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/a-arunkumar/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
